@@ -140,9 +140,9 @@ A web application was developed using Streamlit and the saved K-Means model.
 
 Step 1: Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/spotify-track-clustering.git
+git clone https://github.com/Jasla123/spotify-track-clustering.git
 
-Replace "YOUR-USERNAME" with your GitHub username.
+Replace "jasla123" with your GitHub username.
 
 Step 2: Navigate to the project folder
 
