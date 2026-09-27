@@ -142,7 +142,7 @@ Step 1: Clone the repository
 
 git clone https://github.com/Jasla123/spotify-track-clustering.git
 
-Replace "jasla123" with your GitHub username.
+Replace "Jasla123" with your GitHub username.
 
 Step 2: Navigate to the project folder
 
